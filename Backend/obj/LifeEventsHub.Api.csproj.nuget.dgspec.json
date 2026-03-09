@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\Backend\\LifeEventsHub.Api.csproj": {}
+    "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\backend\\LifeEventsHub.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\Backend\\LifeEventsHub.Api.csproj": {
+    "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\backend\\LifeEventsHub.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\Backend\\LifeEventsHub.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\backend\\LifeEventsHub.Api.csproj",
         "projectName": "LifeEventsHub.Api",
-        "projectPath": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\Backend\\LifeEventsHub.Api.csproj",
+        "projectPath": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\backend\\LifeEventsHub.Api.csproj",
         "packagesPath": "C:\\Users\\Devar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Devar\\AppData\\Roaming\\NuGet\\NuGet.Config",

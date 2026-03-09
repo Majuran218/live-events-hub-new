@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x1HAbUUECCY=",
+  "dgSpecHash": "J/eZZwMpOgs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\Backend\\LifeEventsHub.Api.csproj",
+  "projectFilePath": "C:\\Users\\Devar\\Desktop\\Final Project\\Life_Events_Hub (1)\\Life_Events_Hub\\Life_Events_Hub\\backend\\LifeEventsHub.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devar\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Devar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
